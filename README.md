@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Chirag
-- 👀 I’m interested in ... becoming a React and Front-End developer. Also sports, music, travel and investing!
+- 👀 I am a React and Front-End developer. Love sports, music, travel and investing!
 - 🌱 I’m currently learning ... JavaScript, React, Node and PostgreSQL.
 - 💞️ I’m looking to collaborate on ... cool, fun projects.
 - 📫 How to reach me ... twitter: @chirag_uk email: chiragmehta.uk@gmail.com
