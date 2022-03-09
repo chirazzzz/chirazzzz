@@ -5,7 +5,7 @@
 - 📫 How to reach me ... twitter: @chirag_uk email: chiragmehta.uk@gmail.com
 
 
-[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirazzzz)](https://github.com/chirazzzz/github-readme-stats)
+[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirazzzz&hide=stars)](https://github.com/chirazzzz/github-readme-stats)
 
 ## Tech Stack
 
