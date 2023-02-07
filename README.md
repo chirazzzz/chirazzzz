@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Chirag
-- 👨‍🎓 Student @ [School of Code](https://github.com/SchoolOfCode). Their website is [here](https://www.schoolofcode.co.uk/) 
+- 👨‍🎓 Software Engineer at BAE Systems.
 - 👀 I am a React and Front-End developer. Love sports, music, travel and investing!
 - 🌱 I’m currently learning ... JavaScript, React, Node and PostgreSQL.
 - 💞️ I’m looking to collaborate on ... cool, fun projects.
