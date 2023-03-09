@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Chirag
-- 👨‍🎓 Software Engineer at BAE Systems.
-- 👀 I am a React and Front-End developer. Love sports, music, travel and investing!
-- 🌱 I’m currently learning ... JavaScript, React, Node and PostgreSQL.
+- 👨🏾‍💼 Software Engineer at BAE Systems.
+- 👀 I am a Full Stack JavaScript developer. Love sports, music, travel and investing!
+- 🌱 I’m currently learning ... JavaScript, React, Node, Express and MongoDB.
 - 💞️ I’m looking to collaborate on ... cool, fun projects.
 - 📫 How to reach me ... twitter: @chirag_uk email: chiragmehta.uk@gmail.com
 
